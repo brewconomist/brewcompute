@@ -1,7 +1,7 @@
 # brewcompute
 Brew-in-a-bag focused homebrew equations. 
 
-### DEV INSTALL
+### INSTALLATION
 
 This code is written for Python 3. 
 
