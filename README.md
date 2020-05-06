@@ -1,7 +1,7 @@
 # brewcompute
 Brew-in-a-bag focused homebrew equations. 
 
-### dev install
+### DEV INSTALL
 
 This code is written for Python 3. 
 
@@ -21,7 +21,7 @@ Collecting flake8 (from -r requirements.txt (line 1))
 ...
 ```
 
-### testing 
+### TESTING 
 
 With the virtual environment active, all tests can be run with `bash run_tests.sh`: 
 
