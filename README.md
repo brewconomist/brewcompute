@@ -1,5 +1,5 @@
 # brewcompute
-Brew-in-a-bag focused homebrew equations. 
+Brew-in-a-bag focused homebrew calculations. 
 
 ### INSTALLATION
 
