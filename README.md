@@ -3,7 +3,7 @@ Brew-in-a-bag focused homebrew equations.
 
 ### INSTALLATION
 
-This code is written for Python 3. 
+Brewcompute is written for Python 3. 
 
 Be careful to use the Python 3 version of virtualenv if you wish to edit, test and run the code. 
 
