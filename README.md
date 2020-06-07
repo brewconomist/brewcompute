@@ -20,7 +20,7 @@ remote: Compressing objects: 100% (29/29), done.
 remote: Total 33 (delta 13), reused 11 (delta 1), pack-reused 0
 Unpacking objects: 100% (33/33), done.
 ~$ cd brewcompute
-~/brewcompute$ python3 -m venv_osname
+~/brewcompute$ python3 -m venv venv_osname
 ~/brewcompute$ . venv_osname/bin/activate
 ~/brewcompute$ which pip3
 /home/ibowman/brewcompute/venv_osname/bin/pip3
